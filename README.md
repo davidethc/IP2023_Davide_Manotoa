@@ -8,7 +8,7 @@ A continuación la nomeclatura utilizada:
 experimentación que se envían semana a semana.
 * Carpetas que inician con **PracticaEnClase** corresponden a ejercicios y talleres
 desarrollados en horas de clase.
-* Carpetas que inician con **Consulta** corresponden a actividades de búsqueda de información.s
+* Carpetas que inician con **Consulta** corresponden a actividades de búsqueda de información.sd
 
 ## créditos 
  __Alumno__ : Davide Manotoa
